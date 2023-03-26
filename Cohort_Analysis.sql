@@ -1,3 +1,4 @@
+
 -- Step 1: Cohort Analysis
 
 -- 1.1. Create a cohort table by month of customer sign up:
