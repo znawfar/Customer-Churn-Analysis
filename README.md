@@ -81,6 +81,25 @@ In conclusion, this project demonstrates the power of SQL queries and advanced d
 | GUST004 | Social Media | Like |10 |
 | GUST005 | Phone | Call | 2 |
 
+#### Customer Behavior Table
+
+| Customer ID | Product ID | Pages Visited | Time Spend on Page (Seconds) |
+| --- | --- | --- | --- |
+| GUST001 | PROD101 | Home, About, Contact | 200, 150, 120 |
+| GUST002 | PROD102 | Home, Product, Cart, Checkout | 300, 120, 80, 200 |
+| GUST003 | PROD103 | Home, Product, Reviews | 400, 350, 60 |
+| GUST004 | PROD104 | Home, Cart, About |250, 180, 90 |
+| GUST005 | PROD105 | Home, Product, Cart | 320, 85, 400, 220 |
+
+#### Customer Demographics Table
+
+| Customer ID |  Age (Years) | Gender | Location | Annual Income (USD) |
+| --- | --- | --- | --- | --- |
+| GUST001 | 34 | Femal | New York | 75,000 |
+| GUST002 | 25 | Male | New York | 58,000 |
+| GUST003 | 36 | Female | Florida | 60,000|
+| GUST004 | 48 | Female |Texas | 85,000 |
+| GUST005 | 57 | Male | Florida | 92,000 |
 
 
 
