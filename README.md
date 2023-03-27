@@ -1,7 +1,6 @@
 # Customer Churn Analysis for E-commerce Company with SQL
 
 
-
 ## Overview
 
 In today's highly competitive e-commerce landscape, customer churn is a critical challenge faced by businesses seeking to maintain growth and profitability. This project aims to help a large e-commerce company improve its sales and profitability by identifying key factors that contribute to customer churn. By leveraging the power of SQL queries to analyze customer data, the company can gain valuable insights into customer behavior and develop effective strategies to reduce churn and retain customers.
