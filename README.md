@@ -60,6 +60,31 @@ The analysis revealed several key factors that contribute to customer churn, inc
 
 In conclusion, this project demonstrates the power of SQL queries and advanced data analysis techniques in identifying key factors that contribute to customer churn. By leveraging these insights, the company can develop effective strategies to reduce churn and retain customers, ultimately improving sales and profitability.
 
+## Sample Data
+
+#### Customer Feedback Table
+| Customer ID | Feedback Type | Feedback score (out of 5) |
+| --- | --- | --- | 
+| GUST001 | Rating |      4 | 
+| GUST002 | Survey |      3 | 
+| GUST003 | Review |      4 | 
+| GUST004 | Rating |      5 | 
+| GUST005 | Survay |      3 | 
+
+#### Customer Engagement Table
+
+| Customer ID | Channel | Interaction Type | Interaction Count |
+| --- | --- | --- | --- |
+| GUST001 | Social Media | Like | 10 |
+| GUST002 | Email | Click | 8 |
+| GUST003 | Chat | Support Request | 3 |
+| GUST004 | Social Media | Like |10 |
+| GUST005 | Phone | Call | 2 |
+
+
+
+
+
 
 
 
