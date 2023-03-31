@@ -5,10 +5,12 @@
 
 In today's highly competitive e-commerce landscape, customer churn is a critical challenge faced by businesses seeking to maintain growth and profitability. This project aims to help a large e-commerce company improve its sales and profitability by identifying key factors that contribute to customer churn. By leveraging the power of SQL queries to analyze customer data, the company can gain valuable insights into customer behavior and develop effective strategies to reduce churn and retain customers.
 
+------------------------------------------------------------------------------------------------
 ## Problem Statement
 
 The objective of this project is to perform a customer churn analysis for a large e-commerce company and identify the factors that contribute to customer churn. The company has collected large and complex datasets containing customer data from various sources, such as the company's website, mobile app, social media platforms, and customer support channels. The data has been preprocessed and cleaned using advanced SQL queries and techniques.
 
+---------------------------------------------------------------------------------------------------
 ## Data
 
 The data for this project consists of customer data from various sources, including the company's website, mobile app, social media platforms, and customer support channels. The data has been preprocessed and cleaned using advanced SQL queries and techniques. The dataset contains the following fields:
@@ -25,6 +27,7 @@ The data for this project consists of customer data from various sources, includ
 - churn_status: Whether the customer has churned or not (churned, not churned)
 Methods
 
+-------------------------------------------------------------------------------------------------
 ## Insights
 
 By analyzing the customer data, I was able to identify several key factors that contribute to customer churn:
@@ -37,7 +40,7 @@ By analyzing the customer data, I was able to identify several key factors that 
 
 - High pricing: Customers who perceive the pricing to be too high are more likely to churn.
 
-
+---------------------------------------------------------------------------------------------------
 ## Queries
 
 To uncover these insights, I used several advanced SQL queries and techniques:
@@ -51,6 +54,7 @@ This involved dividing customers into groups based on their characteristics, suc
 #### Predictive modeling:
 This involved using advanced statistical and machine learning techniques, such as logistic regression, decision trees, and neural networks, to build models that can predict which customers are most likely to churn. By analyzing the factors that contribute to churn, the company can develop strategies to mitigate these factors and retain customers.
 
+----------------------------------------------------------------------------------------------------------
 ## Results
 
 The analysis revealed several key factors that contribute to customer churn, including low engagement levels, poor product quality, long wait times for customer support, and high pricing. Based on these findings, the company developed a set of targeted retention strategies aimed at reducing churn and improving customer satisfaction. These strategies included personalized recommendations, proactive customer support, and product improvements based on customer feedback.
@@ -59,6 +63,7 @@ The analysis revealed several key factors that contribute to customer churn, inc
 
 In conclusion, this project demonstrates the power of SQL queries and advanced data analysis techniques in identifying key factors that contribute to customer churn. By leveraging these insights, the company can develop effective strategies to reduce churn and retain customers, ultimately improving sales and profitability.
 
+---------------------------------------------------------------------------------------------------------
 ## Sample Data
 
 #### Customer Feedback Table
@@ -99,7 +104,7 @@ In conclusion, this project demonstrates the power of SQL queries and advanced d
 | GUST003 | 36 | Female | Florida | 60,000|
 | GUST004 | 48 | Female |Texas | 85,000 |
 | GUST005 | 57 | Male | Florida | 92,000 |
-
+--------------------------------------------------------------------------------------------------------------------
 
 
 
