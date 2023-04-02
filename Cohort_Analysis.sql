@@ -20,3 +20,4 @@ SELECT cohort_month,
 FROM cohort_table
 GROUP BY 1, 2
 ORDER BY 1, 2;
+
