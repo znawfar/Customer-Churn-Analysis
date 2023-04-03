@@ -29,7 +29,7 @@ SELECT age_group,
        AVG(website_activity) AS avg_website_activity,
        AVG(customer_support) AS avg_customer_support
 FROM customer_segments
-GROUP BY 1, 2;
+GROUP BY age_group, gender;
 
 -- 2.3. Identify the customer segments with the highest churn rates:
 
@@ -37,7 +37,7 @@ SELECT age_group,
        gender,
        AVG(CASE WHEN churn_status = 'churned' THEN 1 ELSE 0 END) AS churn_rate
 FROM customer_segments
-GROUP BY 1, 2
-ORDER BY 3 DESC;
+GROUP BY age_group, gender
+ORDER BY churn_rate DESC;
 
 
