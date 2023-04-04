@@ -110,5 +110,3 @@ In conclusion, this project demonstrates the power of SQL queries and advanced d
 
 
 
-
-
