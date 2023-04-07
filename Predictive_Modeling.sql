@@ -31,4 +31,3 @@ WITH predictions AS (
 SELECT AVG(CASE WHEN churn_status = 'churned' AND churn_probability >= 0.5 THEN 1
                 WHEN churn_status = 'not churned' AND churn_probability < 0.5 THEN 1 ELSE 0 END) AS accuracy,
       
-
